@@ -13,7 +13,7 @@
   "author": "dev@bjoern.mosler.ch",
   "license": "MIT",
   "dependencies": {
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "vue": "2.6.11",
     "xlsx": "0.15.5"
   },
